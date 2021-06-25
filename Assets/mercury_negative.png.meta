@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 2a8ede659c1b6724eb393179683dd854
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1620193260821466587
+    second: mercury_negative_0
+  - first:
+      213: -5712949930062139519
+    second: mercury_negative_1
+  - first:
+      213: 1412400280451862291
+    second: mercury_negative_2
+  - first:
+      213: 7469048979951694470
+    second: mercury_negative_3
+  - first:
+      213: -4665832617604935560
+    second: mercury_negative_4
+  - first:
+      213: -4107429912330852989
+    second: mercury_negative_6
+  - first:
+      213: -8185153819965988245
+    second: mercury_negative_7
+  - first:
+      213: -5663281707787431077
+    second: mercury_negative_9
+  - first:
+      213: 7964560149458714593
+    second: mercury_negative_10
+  - first:
+      213: -9150943941814423055
+    second: mercury_negative_11
+  - first:
+      213: -1608168421637016683
+    second: mercury_negative_12
+  - first:
+      213: -1801417379075030748
+    second: mercury_negative_13
+  - first:
+      213: 3904069879239968324
+    second: mercury_negative_14
+  - first:
+      213: -1008031244053015170
+    second: mercury_negative_16
+  - first:
+      213: -2447121188187079893
+    second: mercury_negative_17
+  - first:
+      213: -1664153508838339538
+    second: mercury_negative_18
+  - first:
+      213: -1460233768196537457
+    second: mercury_negative_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mercury_negative_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 919
+        width: 45
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5202852, y: 0.22614847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522314d30dae389e0800000000000000
+      internalID: -1620193260821466587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 797
+        width: 89
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fad0f9e4687b0b0800000000000000
+      internalID: -5712949930062139519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 766
+        width: 85
+        height: 154
+      alignment: 9
+      pivot: {x: 0.69330627, y: 0.17398706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fcef4629ad99310800000000000000
+      internalID: 1412400280451862291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_3
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 773
+        width: 85
+        height: 150
+      alignment: 9
+      pivot: {x: 0.3496503, y: 0.11660889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682b30c797467a760800000000000000
+      internalID: 7469048979951694470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_4
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 823
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8701a3674f1af3fb0800000000000000
+      internalID: -4665832617604935560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 802
+        width: 85
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5644354, y: 0.75356513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385a4bfb14a7ff6c0800000000000000
+      internalID: -4107429912330852989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 768
+        width: 69
+        height: 126
+      alignment: 9
+      pivot: {x: 0.18249202, y: 0.8405021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62eef0b7fd786e80800000000000000
+      internalID: -8185153819965988245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 641
+        width: 152
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53dc58ca4bf761b0800000000000000
+      internalID: -5663281707787431077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_10
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 727
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eff7b4024dc78e60800000000000000
+      internalID: 7964560149458714593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_11
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 768
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f173acf7f0510180800000000000000
+      internalID: -9150943941814423055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_12
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 721
+        width: 37
+        height: 86
+      alignment: 9
+      pivot: {x: 0.6480251, y: 0.8608881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59333594753aea9e0800000000000000
+      internalID: -1608168421637016683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_13
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 719
+        width: 36
+        height: 86
+      alignment: 9
+      pivot: {x: 0.27179125, y: 0.85027367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421840420741007e0800000000000000
+      internalID: -1801417379075030748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_14
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 582
+        width: 123
+        height: 164
+      alignment: 9
+      pivot: {x: 0.3812571, y: 0.87292665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446866adeda0e2630800000000000000
+      internalID: 3904069879239968324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_16
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 574
+        width: 69
+        height: 162
+      alignment: 9
+      pivot: {x: 0.023738254, y: 0.8775307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7599bf9ce0c202f0800000000000000
+      internalID: -1008031244053015170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 186
+        width: 189
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bf6c7ae341a0ed0800000000000000
+      internalID: -2447121188187079893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_18
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 172
+        width: 155
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c88f5633db7e8e0800000000000000
+      internalID: -1664153508838339538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mercury_negative_19
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 131
+        width: 414
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f838d9ddf153cbbe0800000000000000
+      internalID: -1460233768196537457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

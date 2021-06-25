@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bullet
+  - pool
+  - enemy
+  - body
+  - left
+  - right
+  - head
+  - lazer
+  - player
+  - blaster
+  - defaultblaster
+  - blast
+  - pattern1
+  - pattern2
+  - teeth
+  - chaser
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PlayerEdge
+  - Water
+  - UI
+  - BoxEdge
+  - bullet
+  - player
+  - player2
+  - lazer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
